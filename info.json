@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "484fabdc24b0c6cf38f75f30aa0c73852922c643",
+    "author": "Matt Strimas-Mackey <mes335@cornell.edu>",
+    "time": "2026-11-19T03:59:23Z",
+    "files": 51,
+    "merge": false,
+    "message": "rebuild\n"
+  },
+  "repo": "https://github.com/CornellLabofOrnithology/auk",
+  "pkg": "auk",
+  "time": "2026-11-19T05:22:47Z"
+}
